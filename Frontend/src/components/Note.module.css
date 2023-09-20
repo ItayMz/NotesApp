@@ -1,0 +1,34 @@
+/* Note Container */
+.note {
+  
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 2vh auto; 
+  width: 50%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* Note Title */
+.note-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: red;
+}
+
+/* Note Content */
+.note-content {
+  font-size: 14px;
+  line-height: 1.5;
+  color: black;
+}
+
+.note button{
+  margin: 10px 50px 10px 50%;
+
+}

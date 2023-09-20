@@ -1,0 +1,6 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Change this to 'flex-start' to align items to the top */
+    margin: 15vh 8vw auto 15vh;
+}

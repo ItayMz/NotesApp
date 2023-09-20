@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "user": "john doe",
+        "password": "john-doe",
+        "notes": [1,2]
+    },
+    {
+        "id": 2,
+        "user": "bilbo beggins",
+        "password": "bilbo-beggins",
+        "notes": [3,4]
+    }
+]
